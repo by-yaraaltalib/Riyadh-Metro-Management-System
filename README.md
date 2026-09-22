@@ -59,18 +59,6 @@ Provides station searching functionality.
 - CircularLine.java  
 Represents circular metro routes.
 
-## How to Run
-
-1. Clone the repository.
-
-2. Open the project in IntelliJ IDEA or another Java IDE.
-
-3. Compile the Java files.
-
-4. Run:
-
-RiyadhMetroManagementSystem.java
-
 ## Learning Objectives
 
 This project was created to improve skills in:
@@ -80,10 +68,3 @@ This project was created to improve skills in:
 - Data structures implementation
 - Algorithm thinking
 - Software organization
-
-## Future Improvements
-
-- Add graphical user interface using JavaFX
-- Add database storage
-- Add user authentication
-- Add real-time metro simulation
