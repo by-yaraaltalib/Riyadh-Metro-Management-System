@@ -58,13 +58,3 @@ Provides station searching functionality.
 
 - CircularLine.java  
 Represents circular metro routes.
-
-## Learning Objectives
-
-This project was created to improve skills in:
-
-- Java programming
-- Object-oriented design
-- Data structures implementation
-- Algorithm thinking
-- Software organization
